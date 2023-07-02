@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @ZainabKashif
-- 👀 I’m interested in creating and designing websites and always looking to learn new things
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on web projects either it be using react or html with php
-- 📫 How to reach me 
-- you can reach me out through email : zainabkashif253@gmail.com
+![Brown   Beige Aesthetic Minimalist Font Initials Logo](https://github.com/ZainabKashif/ZainabKashif/assets/81070169/2f10f2c8-9f77-471c-9c8c-8d31a89bd961)
 
-<!---
-ZainabKashif/ZainabKashif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my readme! I'm thrilled to share my journey with you. I am currently pursuing my Bachelor's degree in Software Engineering from NED University of Engineering and Technology, where I am immersing myself in the fascinating world of technology and its applications. My passion lies in website and Android app development, particularly with the Flutter framework, and I am deeply committed to ensuring the quality and reliability of software through comprehensive testing.
+
+What truly drives me is my constant hunger for learning and exploring new technologies. I relish the opportunity to dive into unfamiliar territories, acquiring knowledge and skills that allow me to push the boundaries of my work. The ever-evolving nature of the technology industry excites me, and I am dedicated to staying updated with the latest trends and best practices.
+
+I invite you to explore my portfolio and discover the projects I have worked on. Through my dedication, enthusiasm, and commitment to excellence, I aim to make a meaningful impact in the world of software engineering. If you are looking for a dedicated and versatile software engineer with a passion for website and Android app development, as well as a strong focus on software testing, I would be thrilled to collaborate with you. Let's embark on an exciting journey together!
