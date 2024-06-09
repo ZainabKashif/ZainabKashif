@@ -1,6 +1,6 @@
 ![Brown   Beige Aesthetic Minimalist Font Initials Logo](https://github.com/ZainabKashif/ZainabKashif/assets/81070169/2f10f2c8-9f77-471c-9c8c-8d31a89bd961)
 
-*__Welcome to my readme! I'm thrilled to share my journey with you. I am currently pursuing my Bachelor's degree in Software Engineering from NED University of Engineering and Technology, where I am immersing myself in the fascinating world of technology and its applications. My passion lies in website and Android app development, particularly with the Flutter framework, and I am deeply committed to ensuring the quality and reliability of software through comprehensive testing.__*
+*__Welcome to my readme! I'm thrilled to share my journey with you. I am currently pursuing my Bachelor's degree in Software Engineering from NED University of Engineering and Technology, where I am immersing myself in the fascinating world of technology and its applications. My passion lies in website and Android app development, and I am deeply committed to ensuring the quality and reliability of software through comprehensive testing.__*
 
 *__What truly drives me is my constant hunger for learning and exploring new technologies. I relish the opportunity to dive into unfamiliar territories, acquiring knowledge and skills that allow me to push the boundaries of my work. The ever-evolving nature of the technology industry excites me, and I am dedicated to staying updated with the latest trends and best practices.__*
 
